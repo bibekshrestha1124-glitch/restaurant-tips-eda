@@ -76,7 +76,7 @@ restaurant-tips-eda/
 
 ---
 
-# 📑 Appendix  
+#  Appendix  
 
 ## Appendix A: GitHub Repository Link  
 
