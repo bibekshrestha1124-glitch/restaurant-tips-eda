@@ -76,6 +76,13 @@ restaurant-tips-eda/
 
 ---
 
-##  Appendix
-This GitHub repository link has been included in the **Appendix section** of the project report for submission.  
+# 📑 Appendix  
+
+## Appendix A: GitHub Repository Link  
+
+The complete Jupyter Notebook (`.ipynb` file) for this project has been uploaded to GitHub.  
+It can be accessed at the following link:  
+
+🔗 [https://github.com/bibekshrestha1124-glitch/restaurant-tips-eda](https://github.com/bibekshrestha1124-glitch/restaurant-tips-eda)  
+
 
